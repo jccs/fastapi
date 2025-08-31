@@ -27,3 +27,6 @@ dist/
 *.db
 *.sqlite3
 *.log
+
+# Data files
+data/
